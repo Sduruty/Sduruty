@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **sandie.duruty@gmail.com**
 
-- 📄 Know about my experiences [I worked in few different branches : Tourism, Training, Secretary,Social...](I worked in few different branches : Tourism, Training, Secretary,Social...)
+- 📄 Know about my experiences I worked in few different branches : Tourism, Training, Secretary,Social...
 
 
 <h3 align="left">Languages and Tools:</h3>
